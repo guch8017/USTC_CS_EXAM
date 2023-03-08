@@ -2,6 +2,7 @@
 
 | 课程 | 年份 | 层次 | 链接 |
 | --- | --- | --- | --- |
+| 计算机程序设计 | 2021 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/ProgramDesign2021.pdf) |
 | 人工智能 | 2020 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/ArtificialIntelligence%202020%20Spring.pdf) |
 | 计算机体系结构 | 2020 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/ComputerArchitecture%202020%20Spring.pdf) |
 | 数据库 | 2020 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/Database%202020%20Spring.pdf) |

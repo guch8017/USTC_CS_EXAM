@@ -10,5 +10,6 @@
 | 信息安全 | 2020 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/InformationSecurity%202020%20Spring.pdf) |
 | 计算方法 | 2020 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/NumericMethod%202020%20Spring.pdf) |
 | 计算方法 | 2021 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/NumericMethod%202021%20Spring.pdf) |
-| 组合数学（期中）| 2022 | 硕士 | [下载]() |
+| 组合数学（期中）| 2022 | 硕士 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/CombinationMid2022.pdf) |
 | 计算机系统 | 2022 | 硕士 | [下载]() |
+| 机器学习与知识发现 |  2018 | 硕士 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/MachineKnowledge%202018.pdf) |

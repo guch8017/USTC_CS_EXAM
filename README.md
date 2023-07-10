@@ -17,6 +17,7 @@
 | 数理逻辑(基础)(期末) | 2022 | 许杨/刘贵全/陈小平 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/MathematicalLogic2022Final.pdf) |
 | 数理逻辑(基础)(期末) | 2023 | 许杨/刘贵全/陈小平 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/MathematicalLogic2023Final.pdf) |
 | 操作系统(H) | 2021 | 邢凯 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/OSH2021.pdf) |
+| 概率论与数理统计 | 2002-2022 | ALL | 本科 | [下载](http://home.ustc.edu.cn/~qifan/exams/ProbabilityAndStatisticsExams.pdf) [备用](ProbabilityAndStatisticsExams.pdf)|
 | 随机过程(B) | 2016秋 | ALL | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/RandomProcess2016A.pdf) |
 | 随机过程(B) | 2017春 | ALL | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/RandomProcess2017S.pdf) |
 | 随机过程(B) | 2017秋 | ALL | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/RandomProcess2017A.pdf) |

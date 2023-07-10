@@ -16,6 +16,7 @@
 | 组合数学（期中）| 2022 | 邵帅 | 硕士 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/CombinationMid2022.pdf) |
 | 计算机系统 | 2022 | 周学海 | 硕士 | TBA |
 | 机器学习与知识发现 | 2018 | TBA | 硕士 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/MachineKnowledge%202018.pdf) |
+| 代数结构 | 2019 | 徐宏力 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/AlgebraicStructure2019.pdf) |
 | 代数结构 | 2022 | 徐宏力 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/AlgebraicStructure2022.pdf) |
 | 代数结构 | 2023 | 徐宏力 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/AlgebraicStructure2023.pdf) |
 | 算法基础(期中) | 2023 | 陈雪&邵帅 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/Algo2023Mid.pdf) |

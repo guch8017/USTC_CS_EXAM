@@ -28,6 +28,8 @@
 | 随机过程(B) | 2021秋 | ALL | 本科 | [下载](Exams/RandomProcess2021A.pdf) |
 | 随机过程(B) | 2022春 | ALL | 本科 | [下载](Exams/RandomProcess2022S.pdf) |
 | 人工智能 | 2020 | 吉建民 | 本科 | [下载](Exams/ArtificialIntelligence%202020%20Spring.pdf) |
+| 人工智能 | 2020 | 吉建民 | 本科 | [下载](Exams/ArtificialIntelligence%202020%20Spring.pdf) |
+| 数理方程 | 2001-2020 | ALL | 本科 | [下载](Exams/MathematicalEqa.pdf) [原链接(已失效)](http://home.ustc.edu.cn/~sunnyygcl/file/tests.pdf) |
 | 计算机体系结构 | 2016 | 周学海 | 本科 | [下载](Exams/ComputerArchitecture2016.pdf) |
 | 计算机体系结构 | 2019 | 周学海 | 本科 | [下载](Exams/ComputerArchitecture2019.pdf) |
 | 计算机体系结构 | 2020 | 周学海 | 本科 | [下载](Exams/ComputerArchitecture%202020%20Spring.pdf) |

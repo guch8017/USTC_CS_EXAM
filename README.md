@@ -17,6 +17,7 @@
 | 算法基础(期末) | 2023 | 陈雪&邵帅 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/Algo2023Final.pdf) |
 | 计算方法 | 2020 | ALL | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/NumericMethod%202020%20Spring.pdf) |
 | 计算方法 | 2021 | ALL | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/NumericMethod%202021%20Spring.pdf) |
+| 计算方法 | 2022 | ALL | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/NumericMethod%202022%20Spring.pdf) [答案](https://github.com/guch8017/USTC_CS_EXAM/blob/master/NumericMethod%202022%20SpringSolution.pdf)|
 | 信息安全导论 | 2020 | 曾凡平 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/InformationSecurity%202020%20Spring.pdf) |
 | 并行计算 | 2019 | 徐云 | 本科 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/ParallelCompute2019.pdf) |
 | 组合数学（期中）| 2022 | 邵帅 | 硕士 | [下载](https://github.com/guch8017/USTC_CS_EXAM/blob/master/CombinationMid2022.pdf) |

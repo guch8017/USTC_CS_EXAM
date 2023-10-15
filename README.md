@@ -41,6 +41,7 @@
 | 计算方法 | 2020 | ALL | 本科 | [下载](Exams/NumericMethod%202020%20Spring.pdf) |
 | 计算方法 | 2021 | ALL | 本科 | [下载](Exams/NumericMethod%202021%20Spring.pdf) |
 | 计算方法 | 2022 | ALL | 本科 | [下载](Exams/NumericMethod%202022%20Spring.pdf) [答案](Exams/NumericMethod%202022%20SpringSolution.pdf)|
+| 大数据算法 | 2022 | 彭攀 | 本科 | [期中](Exams/AlgorithmForBigData2022Mid.pdf) [期末](Exams/AlgorithmForBigData2022Final.pdf) |
 | 信息安全导论 | 2020 | 曾凡平 | 本科 | [下载](Exams/InformationSecurity%202020%20Spring.pdf) |
 | 并行计算 | 2019 | 徐云 | 本科 | [下载](Exams/ParallelCompute2019.pdf) |
 | 组合数学（期中）| 2022 | 邵帅 | 硕士 | [下载](Exams/CombinationMid2022.pdf) |

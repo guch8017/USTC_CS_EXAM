@@ -9,6 +9,7 @@
 | 课程 | 年份 | 授课 | 层次 | 链接 |
 | --- | --- | --- | --- | --- |
 | 计算机程序设计 | 2021 | TBA | 本科 | [下载](Exams/ProgramDesign2021.pdf) |
+| 计算系统概论A(ICS) | 2023 | 安虹 | 本科 | [期中](Exams\ICS2023Mid.pdf) |
 | 代数结构 | 2019 | 徐宏力 | 本科 | [下载](Exams/AlgebraicStructure2019.pdf) |
 | 代数结构 | 2022 | 徐宏力 | 本科 | [下载](Exams/AlgebraicStructure2022.pdf) |
 | 代数结构 | 2023 | 徐宏力 | 本科 | [下载](Exams/AlgebraicStructure2023.pdf) |

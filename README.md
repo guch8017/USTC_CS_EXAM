@@ -13,6 +13,7 @@
 | 代数结构 | 2019 | 徐宏力 | 本科 | [下载](Exams/AlgebraicStructure2019.pdf) |
 | 代数结构 | 2022 | 徐宏力 | 本科 | [下载](Exams/AlgebraicStructure2022.pdf) |
 | 代数结构 | 2023 | 徐宏力 | 本科 | [下载](Exams/AlgebraicStructure2023.pdf) |
+| 数据结构 | 2022 | 李金龙 | 本科 | [回忆版](Exams\DataStructure2022.md) |
 | 数理逻辑(基础)(期中) | 2020 | 许杨/刘贵全/陈小平 | 本科 | [下载](Exams/MathematicalLogic2020Mid.pdf) |
 | 数理逻辑(基础)(期末) | 2017/2018/2020 | 许杨/刘贵全/陈小平 | 本科 | [下载](Exams/MathematicalLogic2017T2020.pdf) |
 | 数理逻辑(基础)(期末) | 2022 | 许杨/刘贵全/陈小平 | 本科 | [下载](Exams/MathematicalLogic2022Final.pdf) |

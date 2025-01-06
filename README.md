@@ -41,6 +41,9 @@
 | 算法基础 | 2019 | TBA | 本科 | [下载](Exams/FundamentalAlgorithms%202019%20Autumn.pdf) |
 | 算法基础(期中) | 2023 | 陈雪&邵帅 | 本科 | [下载](Exams/Algo2023Mid.pdf) |
 | 算法基础(期末) | 2023 | 陈雪&邵帅 | 本科 | [下载](Exams/Algo2023Final.pdf) |
+| 离散数学 | 2024 | 邵帅 | 本科 | [下载](Exams/DMA24F.pdf) |
+| 离散数学(期中) | 2023 | 邵帅 | 本科 | [下载](Exams/DMA23M.md) |
+| 离散数学(期末) | 2023 | 邵帅 | 本科 | [下载](Exams/DMA23F.md) |
 | 计算方法 | 2020 | ALL | 本科 | [下载](Exams/NumericMethod%202020%20Spring.pdf) |
 | 计算方法 | 2021 | ALL | 本科 | [下载](Exams/NumericMethod%202021%20Spring.pdf) |
 | 计算方法 | 2022 | ALL | 本科 | [下载](Exams/NumericMethod%202022%20Spring.pdf) [答案](Exams/NumericMethod%202022%20SpringSolution.pdf)|

@@ -44,8 +44,9 @@
 | 图论 | 2018 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GT2018F.pdf) |
 | 图论 | 2024 | 徐宏力 | 本科 | [回忆版](Exams/GT2024F.md) |
 | 数据库 | 2020 | 金培权 |本科 | [下载](Exams/Database%202020%20Spring.pdf) |
-| 算法基础 | 2017 | TBA | 本科 | [下载](Exams/FundamentalAlgorithms%202017%20Autumn.pdf) |
-| 算法基础 | 2019 | TBA | 本科 | [下载](Exams/FundamentalAlgorithms%202019%20Autumn.pdf) |
+| 算法基础 | 2009 | 顾乃杰 | 本科 | [下载](Exams/FundamentalAlgorithms2009Q.doc) [答案](Exams/FundamentalAlgorithms2009A.doc)|
+| 算法基础 | 2017 | 顾乃杰 | 本科 | [下载](Exams/FundamentalAlgorithms%202017%20Autumn.pdf) |
+| 算法基础 | 2019 | 顾乃杰 | 本科 | [下载](Exams/FundamentalAlgorithms%202019%20Autumn.pdf) |
 | 算法基础(期中) | 2023 | 陈雪&邵帅 | 本科 | [下载](Exams/Algo2023Mid.pdf) |
 | 算法基础(期末) | 2023 | 陈雪&邵帅 | 本科 | [下载](Exams/Algo2023Final.pdf) |
 | 离散数学 | 2024 | 邵帅 | 本科 | [下载](Exams/DMA24F.pdf) |

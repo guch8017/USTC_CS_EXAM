@@ -39,6 +39,7 @@
 | 计算机网络(期中) | 2024 | 华蓓 | 本科 | [下载](Exams/CN2024M.pdf) |
 | 计算机网络(期末) | 2020 | 华蓓 | 本科 | [下载](Exams/CN2020F.pdf) |
 | 图论 | 2018 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GT2018F.pdf) |
+| 图论 | 2024 | 徐宏力 | 本科 | [回忆版](Exams/GT2024F.md) |
 | 数据库 | 2020 | 金培权 |本科 | [下载](Exams/Database%202020%20Spring.pdf) |
 | 算法基础 | 2017 | TBA | 本科 | [下载](Exams/FundamentalAlgorithms%202017%20Autumn.pdf) |
 | 算法基础 | 2019 | TBA | 本科 | [下载](Exams/FundamentalAlgorithms%202019%20Autumn.pdf) |

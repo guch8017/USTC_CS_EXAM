@@ -8,6 +8,8 @@
 
 | 课程 | 年份 | 授课 | 层次 | 链接 |
 | --- | --- | --- | --- | --- |
+| 计算机程序设计 | 2018 | ALL | 本科 | [下载](Exams/ProgramDesign2018.pdf) |
+| 计算机程序设计 | 2020 | ALL | 本科 | [下载](Exams/ProgramDesign2020.pdf) |
 | 计算机程序设计 | 2021 | ALL | 本科 | [下载](Exams/ProgramDesign2021.pdf) |
 | 计算系统概论A(ICS) | 2023 | 安虹 | 本科 | [期中](Exams\ICS2023Mid.pdf) |
 | 代数结构 | 2019 | 徐宏力 | 本科 | [下载](Exams/AlgebraicStructure2019.pdf) |

@@ -21,6 +21,10 @@
 | 数理逻辑(基础)(期末) | 2017/2018/2020 | 许杨/刘贵全/陈小平 | 本科 | [下载](Exams/MathematicalLogic2017T2020.pdf) |
 | 数理逻辑(基础)(期末) | 2022 | 许杨/刘贵全/陈小平 | 本科 | [下载](Exams/MathematicalLogic2022Final.pdf) |
 | 数理逻辑(基础)(期末) | 2023 | 许杨/刘贵全/陈小平 | 本科 | [下载](Exams/MathematicalLogic2023Final.pdf) |
+| 计算机组成原理 | 2017 | 未知 | 本科 | [下载](Exams/COD2017.pdf) |
+| 操作系统(H) | 2017 | 陈香兰 | 本科 | [下载](Exams/OS2017.pdf) |
+| 操作系统(H) | 2018 | 陈香兰 | 本科 | [下载](Exams/OS2018.pdf) |
+| 操作系统(H) | 2021 | 陈香兰 | 本科 | [下载](Exams/OS2021.pdf) | 
 | 操作系统(H) | 2021 | 邢凯 | 本科 | [下载](Exams/OSH2021.pdf) |
 | 概率论与数理统计 | 2002-2022 | ALL | 本科 | [下载](http://home.ustc.edu.cn/~qifan/exams/ProbabilityAndStatisticsExams.pdf) [备用](Exams/ProbabilityAndStatisticsExams.pdf)|
 | 随机过程(B) | 2016秋 | ALL | 本科 | [下载](Exams/RandomProcess2016A.pdf) |
@@ -33,7 +37,8 @@
 | 随机过程(B) | 2021秋 | ALL | 本科 | [下载](Exams/RandomProcess2021A.pdf) |
 | 随机过程(B) | 2022春 | ALL | 本科 | [下载](Exams/RandomProcess2022S.pdf) |
 | 人工智能 | 2020 | 吉建民 | 本科 | [下载](Exams/ArtificialIntelligence%202020%20Spring.pdf) |
-| 人工智能 | 2020 | 吉建民 | 本科 | [下载](Exams/ArtificialIntelligence%202020%20Spring.pdf) |
+| 人工智能 | 2021 | 吉建民 | 本科 | [下载](Exams/ArtificialIntelligence%202021%20Spring.pdf) |
+| 人工智能 | 2023 | 吉建民 | 本科 | [下载](Exams/ArtificialIntelligence%202023%20Spring.pdf) |
 | 数理方程 | 2001-2020 | ALL | 本科 | [下载](Exams/MathematicalEqa.pdf) [原链接(已失效)](http://home.ustc.edu.cn/~sunnyygcl/file/tests.pdf) |
 | 计算机体系结构 | 2016 | 周学海 | 本科 | [下载](Exams/ComputerArchitecture2016.pdf) |
 | 计算机体系结构 | 2019 | 周学海 | 本科 | [下载](Exams/ComputerArchitecture2019.pdf) |
@@ -42,11 +47,19 @@
 | 计算机网络(期中) | 2024 | 华蓓 | 本科 | [下载](Exams/CN2024M.pdf) |
 | 计算机网络(期末) | 2020 | 华蓓 | 本科 | [下载](Exams/CN2020F.pdf) |
 | 图论 | 2018 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GT2018F.pdf) |
+| 图论 | 2019 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GT2019F.pdf) |
+| 图论 | 2020 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GT2020F.pdf) |
+| 图论 | 2021 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GT2021F.pdf) | 
 | 图论 | 2024 | 徐宏力 | 本科 | [回忆版](Exams/GT2024F.md) |
+| 数据库 | 2019 | 金培权 |本科 | [下载](Exams/Database%202019%20Spring.pdf) |
 | 数据库 | 2020 | 金培权 |本科 | [下载](Exams/Database%202020%20Spring.pdf) |
 | 算法基础 | 2009 | 顾乃杰 | 本科 | [下载](Exams/FundamentalAlgorithms2009Q.doc) [答案](Exams/FundamentalAlgorithms2009A.doc)|
 | 算法基础 | 2017 | 顾乃杰 | 本科 | [下载](Exams/FundamentalAlgorithms%202017%20Autumn.pdf) |
+| 算法基础 | 2018 | 徐云 | 本科 | [下载](Exams/FundamentalAlgorithms%202018%20Autumn.pdf) |
+| 算法基础(期中) | 2018 | 徐云 | 本科 | [下载](Exams/FundamentalAlgorithms%202018%20Autumn%20Mid.pdf) |
 | 算法基础 | 2019 | 顾乃杰 | 本科 | [下载](Exams/FundamentalAlgorithms%202019%20Autumn.pdf) |
+| 算法基础 | 2021 | 徐云 | 本科 | [下载](Exams/FundamentalAlgorithms%202021%20Autumn.pdf) |
+| 算法基础(期中) | 2021 | 徐云 | 本科 | [下载](Exams/FundamentalAlgorithms%202021%20Autumn%20Mid.pdf) |
 | 算法基础(期中) | 2023 | 陈雪&邵帅 | 本科 | [下载](Exams/Algo2023Mid.pdf) |
 | 算法基础(期末) | 2023 | 陈雪&邵帅 | 本科 | [下载](Exams/Algo2023Final.pdf) |
 | 算法基础| 2023 | 李向阳/谈海生 | 本科 | [下载](Exams/FundamentalAlgorithms2023.md) |
@@ -58,7 +71,10 @@
 | 计算方法 | 2022 | ALL | 本科 | [下载](Exams/NumericMethod%202022%20Spring.pdf) [答案](Exams/NumericMethod%202022%20SpringSolution.pdf)|
 | 大数据算法 | 2022 | 彭攀 | 本科 | [期中](Exams/AlgorithmForBigData2022Mid.pdf) [期末](Exams/AlgorithmForBigData2022Final.pdf) |
 | 信息安全导论 | 2020 | 曾凡平 | 本科 | [下载](Exams/InformationSecurity%202020%20Spring.pdf) |
+| 并行计算 | 2016 | 徐云 | 本科 | [下载](Exams/ParallelCompute2016.pdf) |
+| 并行计算 | 2018 | 徐云 | 本科 | [下载](Exams/ParallelCompute2018.pdf) |
 | 并行计算 | 2019 | 徐云 | 本科 | [下载](Exams/ParallelCompute2019.pdf) |
+| 并行计算 | 2020 | 徐云 | 本科 | [下载](Exams/ParallelCompute2020.pdf) |
 | 组合数学（期中）| 2022 | 邵帅 | 硕士 | [下载](Exams/CombinationMid2022.pdf) |
 | 计算机系统 | 2022 | 周学海 | 硕士 | TBA |
 | 形式语言与计算复杂性 | 2023 | 黄文超 | 硕士 | [下载](Exams/TheoryOfComputation2023S.png) |

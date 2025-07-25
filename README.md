@@ -79,8 +79,8 @@
 | 组合数学（期末）| 2015 | 吕敏/许胤龙 | 硕士 | [下载](Exams/CombinationFinal2015F.jpg) [答案](Exams/CombinationFinal2015FAns.pdf) |
 | 组合数学（期末）| 2016 | 吕敏/许胤龙 | 硕士 | [下载](Exams/CombinationFinal2016F.pdf) [答案](Exams/CombinationFinal2016FAns.pdf) |
 | 组合数学（期末）| 2017 | 吕敏/许胤龙 | 硕士 | [回忆版](Exams/CombinationFinal2017F.pdf) |
-| 组合数学（期末）| 2018 | 吕敏/许胤龙 | 硕士 | [回忆版](Exams/CombinationFinal2018F.pdf) [答案](Exams/CombinationFinal2018FAns.pdf) |
-| 组合数学（期末）| 2019 | 吕敏/许胤龙 | 硕士 | [回忆版](Exams/CombinationFinal2019F.pdf) [答案](Exams/CombinationFinal2019FAns.pdf) |
+| 组合数学（期末）| 2018 | 吕敏/许胤龙 | 硕士 | [下载](Exams/CombinationFinal2018F.pdf) [答案](Exams/CombinationFinal2018FAns.pdf) |
+| 组合数学（期末）| 2019 | 吕敏/许胤龙 | 硕士 | [下载](Exams/CombinationFinal2019F.pdf) [答案](Exams/CombinationFinal2019FAns.pdf) |
 | 计算机系统 | 2022 | 周学海 | 硕士 | TBA |
 | 形式语言与计算复杂性 | 2023 | 黄文超 | 硕士 | [下载](Exams/TheoryOfComputation2023S.png) |
 | 机器学习与知识发现 | 2018 | TBA | 硕士 | [下载](Exams/MachineKnowledge%202018.pdf) |

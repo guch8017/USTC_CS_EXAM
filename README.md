@@ -84,3 +84,4 @@
 | 计算机系统 | 2022 | 周学海 | 硕士 | TBA |
 | 形式语言与计算复杂性 | 2023 | 黄文超 | 硕士 | [下载](Exams/TheoryOfComputation2023S.png) |
 | 机器学习与知识发现 | 2018 | TBA | 硕士 | [下载](Exams/MachineKnowledge%202018.pdf) |
+| 数理逻辑基础 | 2026 | TBA | 本科 | [回忆版](Exams/MathematicalLogic2026Final.md) |

@@ -1,0 +1,23 @@
+Exams/AlgorithmDesign2025.md
+  s_3b5b8666525d64::t_874b59666951b2 1-28
+Exams/OSH2025.md
+  s_3b5b8666525d64::t_cf068602cb4bab 1-120
+Exams/SystemProgramming2026F.md
+  s_3b5b8666525d64::t_6dcd70dd2b8e42 1-410
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1469e592f495195e85cddb3500316053d366db50",
+  "prompts": {},
+  "sessions": {
+    "s_3b5b8666525d64": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08a50-5ee8-7a61-ac1b-bc3d4fbef1bf",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "guch8017 <guch8017@gmail.com>"
+    }
+  }
+}

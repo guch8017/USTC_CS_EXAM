@@ -49,7 +49,7 @@
 | 图论 | 2018 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GT2018F.pdf) [答案](Exams/GraphTheory2018-2020Ans.pdf) |
 | 图论 | 2019 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GT2019F.pdf) [答案](Exams/GraphTheory2019Ans.pdf) |
 | 图论 | 2020 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GT2020F.pdf) |
-| 图论 | 2021 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GT2021F.pdf) | 
+| 图论 | 2021 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GT2021F.docx) | 
 | 图论 | 2024 | 徐宏力 | 本科 | [回忆版](Exams/GT2024F.md) |
 | 数据库 | 2019 | 金培权 |本科 | [下载](Exams/Database%202019%20Spring.pdf) |
 | 数据库 | 2020 | 金培权 |本科 | [下载](Exams/Database%202020%20Spring.pdf) |
@@ -77,10 +77,10 @@
 | 并行计算 | 2020 | 徐云 | 本科 | [下载](Exams/ParallelCompute2020.pdf) |
 | 组合数学（期中）| 2022 | 邵帅 | 硕士 | [下载](Exams/CombinationMid2022.pdf) |
 | 组合数学（期末）| 2015 | 吕敏/许胤龙 | 硕士 | [下载](Exams/CombinationFinal2015F.jpg) [答案](Exams/CombinationFinal2015FAns.pdf) |
-| 组合数学（期末）| 2016 | 吕敏/许胤龙 | 硕士 | [下载](Exams/CombinationFinal2016F.pdf) [答案](Exams/CombinationFinal2016FAns.pdf) |
-| 组合数学（期末）| 2017 | 吕敏/许胤龙 | 硕士 | [回忆版](Exams/CombinationFinal2017F.pdf) |
-| 组合数学（期末）| 2018 | 吕敏/许胤龙 | 硕士 | [下载](Exams/CombinationFinal2018F.pdf) [答案](Exams/CombinationFinal2018FAns.pdf) |
-| 组合数学（期末）| 2019 | 吕敏/许胤龙 | 硕士 | [下载](Exams/CombinationFinal2019F.pdf) [答案](Exams/CombinationFinal2019FAns.pdf) |
+| 组合数学（期末）| 2016 | 吕敏/许胤龙 | 硕士 | [下载](Exams/CombinationFinal2016F.jpg) [答案](Exams/CombinationFinal2016FAns.pdf) |
+| 组合数学（期末）| 2017 | 吕敏/许胤龙 | 硕士 | [回忆版](Exams/CombinationFinal2017F.jpg) |
+| 组合数学（期末）| 2018 | 吕敏/许胤龙 | 硕士 | [下载](Exams/CombinationFinal2018F.jpg) [答案](Exams/CombinationFinal2018FAns.pdf) |
+| 组合数学（期末）| 2019 | 吕敏/许胤龙 | 硕士 | [下载](Exams/CombinationFinal2019F.jpg) [答案](Exams/CombinationFinal2019FAns.pdf) |
 | 计算机系统 | 2022 | 周学海 | 硕士 | TBA |
 | 形式语言与计算复杂性 | 2023 | 黄文超 | 硕士 | [下载](Exams/TheoryOfComputation2023S.png) |
 | 机器学习与知识发现 | 2018 | TBA | 硕士 | [下载](Exams/MachineKnowledge%202018.pdf) |

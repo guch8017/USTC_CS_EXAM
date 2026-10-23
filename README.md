@@ -144,3 +144,4 @@
 | 计算机原理与嵌入式系统(样卷) | 2023 | 王嵩，张旭 | 本科 | [样卷](Exams/ComputerPrinciplesSample.pdf) [23计嵌](Exams/EmbeddedSystem2023F.pdf) [原链接](https://icourse.club/course/26346/#review-105241) |
 | 计算机原理与嵌入式系统 | 2020春/2023-2024 | 王嵩，何力，张旭 | 本科 | [2020春期末](Exams/EmbeddedSystem2020S.pdf) [2023-2024](Exams/EmbeddedSystem2023-2024.pdf) [试卷](Exams/EmbeddedSystemPaper.pdf) [exam](Exams/EmbeddedSystemExam.pdf) [题型示意卷](Exams/EmbeddedSystemQuestionTypes.pdf) [微机原理考题](Exams/MicrocomputerPrinciplesExam.pdf) [原链接](https://icourse.club/course/25202/#review-92780) |
 | 图论 | 2025 | 许胤龙，吕敏 | 本科 | [回忆版](Exams/GraphTheory2025F.pdf) [原链接](https://icourse.club/course/1458/#review-88796) |
+| 编译原理和技术(期中) | 2026秋 | 李诚，徐伟 | 本科 | [回忆版](Exams/CompilerPrinciples2026AutumnMid.md) [原链接](https://icourse.club/course/25468/#review-106680) |

@@ -42,7 +42,8 @@
 | 计算机系统 | 周学海 | 硕士 | 2022：TBA<br>2024秋：[回忆版](Exams/ComputerSystem2024F.pdf) [原链接](https://icourse.club/course/20764/#review-89213) |
 | 形式语言与计算复杂性 | 黄文超 | 硕士 | 2023：[下载](Exams/TheoryOfComputation2023S.png) |
 | 机器学习与知识发现 | TBA | 硕士 | 2018：[下载](Exams/MachineKnowledge%202018.pdf) |
-| 数理逻辑基础 | TBA | 本科 | 2024 期末：[回忆版](Exams/MathematicalLogic2024F.pdf) [原链接](https://icourse.club/course/22510/#review-104342)<br>2025 期末：[回忆版](Exams/MathematicalLogic2025F.pdf) [原链接](https://icourse.club/course/22510/#review-104342)<br>2026：[回忆版](Exams/MathematicalLogic2026Final.md) |
+| 数理逻辑基础 | TBA | 本科 | 2024 期末：[回忆版](Exams/MathematicalLogic2024F.pdf) [原链接](https://icourse.club/course/22510/#review-104342)<br>2025 期末：[回忆版](Exams/MathematicalLogic2025F.pdf) [原链接](https://icourse.club/course/22510/#review-104342) |
+| 数理逻辑基础 | 许杨 | 本科 | 2026春 期末：[回忆版](Exams/MathematicalLogic2026Final.md) |
 | 操作系统 | 李永坤，王志强 | 本科 | 2026春：[回忆版](Exams/OS2026SpringLYK.pdf) [原链接](https://icourse.club/course/26266/#review-103554) |
 | 系统程序设计基础 | 马建辉，王志强 | 本科 | 2026春：[回忆版](Exams/SystemProgramming2026F.md) [原链接](https://icourse.club/course/26652/#review-103053) |
 | 大数据算法 | 丁虎 | 本科 | 2026春 期中：[回忆版](Exams/AlgorithmForBigData2026Mid.pdf) [原链接](https://icourse.club/course/18025/#review-102482) |
